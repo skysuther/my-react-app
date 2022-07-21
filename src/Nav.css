@@ -8,7 +8,7 @@
 
 .Nav-header {
   background-color: #582c3c;
-  min-height: 15vh;
+  min-height: 8vh;
   display: flex;
   flex-direction: row;
   align-items: center;
