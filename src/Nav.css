@@ -3,7 +3,8 @@
 }
 
 .Nav-list li {
-  display: inline;
+  display: inline-block;
+  border-color: coral;
 }
 
 .Nav-header {
